@@ -1,3 +1,5 @@
 smartphone	
 auto	
 fernseher
+bücher
+Fahrrad
